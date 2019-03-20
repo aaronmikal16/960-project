@@ -1,0 +1,98 @@
+body {
+    background: #f0f2f2;
+    
+    }
+
+h2{
+    font-family: "Fjalla One", sans-serif;
+
+}  
+
+h3{
+    font-family: "Fjalla One", sans-serif;
+}
+
+h4{
+    font-family: "Fjalla One", sans-serif;
+}
+
+.main{
+    background: #f0f2f2;
+    color: white;
+
+}
+.gucci{
+    background-color: #0f1b24;
+    float: center;
+    
+    position: relative;
+    color: white;
+    
+}
+.gucci a{
+    color: white;
+    
+}
+.nav-right ul {
+    float: right;
+    padding: 0;
+    margin-top: 0;
+    color: white;
+}
+.nav-right ul li {
+    list-style: none;
+    display: inline;
+    color: white;
+}
+.nav-2 ul {
+    float: right;
+}
+.nav-2 ul li {
+    list-style: none;
+    display: inline;
+}
+.bottom {
+    background-color:#0f1b24;
+    color:white;
+    font-family: "Fjalla One", sans-serif;
+    margin-top: 10px;
+
+}
+.bottom a{
+    color: white;
+    font-size: 13px;
+    
+}
+
+.services li{
+    margin: 0px;
+    padding:0px;
+   
+}
+
+.opportunities li{
+    padding:0px;
+
+}
+
+.news{
+    
+    display: inline;
+}
+
+.button{
+    background-color:#0f1b24;
+    padding: 8px;
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    border-radius:5px;
+    display:inline-block;
+}
+
+.button:hover{
+    background-color: orange;
+}
+
+.fun{
+    color: white;
+}
